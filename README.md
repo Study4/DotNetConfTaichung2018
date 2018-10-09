@@ -74,8 +74,9 @@ https://github.com/Study4/dotnetconftaichung2018
 **使用 Dependency Injection 撰寫簡潔C# 程式碼原來這麼簡單 - Poy**  
 https://github.com/Study4/dotnetconftaichung2018
 
-
-
+  
+  
+**Photo**    
 ![.NET Conf 2018 Local Event Taichung photo 01](https://distudio.blob.core.windows.net/study4tw/dotnetconf001.jpg)  
 ![.NET Conf 2018 Local Event Taichung photo 02](https://distudio.blob.core.windows.net/study4tw/dotnetconf002.jpg)  
 ![.NET Conf 2018 Local Event Taichung photo 03](https://distudio.blob.core.windows.net/study4tw/dotnetconf003.jpg)  
