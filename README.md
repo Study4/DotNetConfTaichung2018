@@ -1,5 +1,8 @@
 # .NET Conf Taichung 2018
-.NET Conf local event Taichung 2018 slide  
+.NET Conf local event Taichung 2018 slide 
+  
+![.NET Conf 2018 Local Event Taichung Logo](https://distudio.blob.core.windows.net/study4tw/1535670864.37823.jpg)  
+  
 **Web site** : http://study4.tw/Activity/Details/20  
 **Study4.TW Enterprise share**： https://www.facebook.com/Study4.Enterprise/​  
 **Study4.TW FB**： https://www.facebook.com/Study4.tw/  
@@ -70,3 +73,9 @@ https://github.com/Study4/dotnetconftaichung2018
 
 **使用 Dependency Injection 撰寫簡潔C# 程式碼原來這麼簡單 - Poy**  
 https://github.com/Study4/dotnetconftaichung2018
+
+
+
+![.NET Conf 2018 Local Event Taichung photo 01](https://distudio.blob.core.windows.net/study4tw/dotnetconf001.jpg)  
+![.NET Conf 2018 Local Event Taichung photo 02](https://distudio.blob.core.windows.net/study4tw/dotnetconf002.jpg)  
+![.NET Conf 2018 Local Event Taichung photo 03](https://distudio.blob.core.windows.net/study4tw/dotnetconf003.jpg)  
