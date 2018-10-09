@@ -68,7 +68,7 @@ https://github.com/Study4/dotnetconftaichung2018
 
 
 **網關攻略 - 淺談 .NET Core API Gateway Ocelot - Sky**  
-取得中... 
+https://github.com/Study4/dotnetconftaichung2018
 
 
 **使用 Dependency Injection 撰寫簡潔C# 程式碼原來這麼簡單 - Poy**  
