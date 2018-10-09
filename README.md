@@ -1,9 +1,9 @@
-# .NET Conf taichung 2018
-.NET Conf local event Taichung 2018 slide 
-Web site:http://study4.tw/Activity/Details/20
-Study4.TW 企業分享： https://www.facebook.com/Study4.Enterprise/​
-Study4.TW FB：https://www.facebook.com/Study4.tw/
-Study4.TW Group：https://www.facebook.com/groups/study4tw/
+# .NET Conf Taichung 2018
+.NET Conf local event Taichung 2018 slide  
+Web site:http://study4.tw/Activity/Details/20  
+Study4.TW 企業分享： https://www.facebook.com/Study4.Enterprise/​  
+Study4.TW FB：https://www.facebook.com/Study4.tw/  
+Study4.TW Group：https://www.facebook.com/groups/study4tw/  
 
 
 **Overview : What is .NET - Duran Hsieh**
