@@ -16,7 +16,7 @@ Slide show : https://www.slideshare.net/DuranHsieh1/study4tw-net-conf-local-even
 
 
 **ASP.NET Core - Security and Identity - Money Yu**  
-取得中...
+https://github.com/Study4/dotnetconftaichung2018
 
 
 **Disruptor.NET - 高性能非同步事件處理框架 - Jed Lin**  
